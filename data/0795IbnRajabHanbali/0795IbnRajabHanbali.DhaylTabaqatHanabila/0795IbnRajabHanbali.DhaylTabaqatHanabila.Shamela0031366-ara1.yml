@@ -19,5 +19,6 @@
     edition is not actually the same as the one used for creating the
     digital text (despite the pagination being the same, the metadata in the
     file is not helpful for identifying the right edition).
+    NB: check lines of poetry that seem too long: line numbers 6081
 90#VERS#DATE#####: 2020-08-24
 90#VERS#ISSUES###: NO_MAJOR_ISSUES
