@@ -6,6 +6,9 @@
 80#VERS#LINKS####: https://ebook.univeyes.com/102798/pdf-الكتيبة-الكامنة-في-من-لقيناه-بالأندلس-من-شعراء-المائة-الثامنة
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: Good correspondence w/ printed edition. Pagination
-    consistent..
+        consistent..
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-07-13
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: EDITORIAL_SECTIONS, PRIMARY_VERSION, CLEANED_VERSION

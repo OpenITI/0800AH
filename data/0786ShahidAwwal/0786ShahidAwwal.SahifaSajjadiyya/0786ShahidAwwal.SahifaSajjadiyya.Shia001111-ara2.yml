@@ -6,13 +6,16 @@
 80#VERS#LINKS####: http://alfeker.net/library.php?id=3886
 90#VERS#ANNOTATOR: PV
 90#VERS#COMMENT##: This edition contains much additional material and
-    should therefore not be the primary version of the book:  "The
-    popularization of the Ṣaḥifa  spurred the compilation of supplementary
-    works  (mostadrakāt) containing additional devotional  material
-    attributed to Imam Zayn-al-ʿĀbedin,  which are referred to as the
-    second, third,  fourth, etc. Ṣaḥifa.   In recent times some scholars
-    have collected  all of the original and supplementary material  into one
-    volume, most notably al-Ṣaḥifa  al-Sajjādiya al-jāmeʿa of Moḥammad-Bāqer
-    Abṭaḥi."  (http://www.iranicaonline.org/articles/sahifa-al-sajjadiya)
+        should therefore not be the primary version of the book:  "The
+        popularization of the Ṣaḥifa  spurred the compilation of supplementary
+        works  (mostadrakāt) containing additional devotional  material
+        attributed to Imam Zayn-al-ʿĀbedin,  which are referred to as the
+        second, third,  fourth, etc. Ṣaḥifa.   In recent times some scholars
+        have collected  all of the original and supplementary material  into one
+        volume, most notably al-Ṣaḥifa  al-Sajjādiya al-jāmeʿa of Moḥammad-Bāqer
+        Abṭaḥi."  (http://www.iranicaonline.org/articles/sahifa-al-sajjadiya)
+    All paratextual elements
+    (introductions, footnotes, indices, ...)
+    removed by HRH and MGR (OpenITI Clean operation, 2023)
 90#VERS#DATE#####: 2020-06-16
-90#VERS#ISSUES###: formalized issues, separated with commas
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
