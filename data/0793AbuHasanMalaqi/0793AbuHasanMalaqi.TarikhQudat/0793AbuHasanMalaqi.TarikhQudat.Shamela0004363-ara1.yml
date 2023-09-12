@@ -6,9 +6,11 @@
 80#VERS#LINKS####: https://archive.org/details/0201710
 90#VERS#ANNOTATOR: SP Loynes
 90#VERS#COMMENT##: I have collated to an edition from 1980, not 1983.
-        Text and pagination is the same.
+    Text and pagination is the same.
     All paratextual elements
     (introductions, footnotes, indices, ...)
     removed by HRH and MGR (OpenITI Clean operation, 2023)
+    Link to the text file as it was before it was cleaned:
+    https://raw.githubusercontent.com/OpenITI/0800AH/pre-clean/data/0793AbuHasanMalaqi/0793AbuHasanMalaqi.TarikhQudat/0793AbuHasanMalaqi.TarikhQudat.Shamela0004363-ara1.completed
 90#VERS#DATE#####: 2020-07-24
 90#VERS#ISSUES###: EDITORIAL_SECTIONS, HTML_TAGS, PRIMARY_VERSION, CLEANED_VERSION
