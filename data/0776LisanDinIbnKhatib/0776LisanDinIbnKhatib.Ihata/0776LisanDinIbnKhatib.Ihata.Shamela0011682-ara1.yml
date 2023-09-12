@@ -9,5 +9,9 @@
     printed edition w/ all biographical entries matching. Editorial titles
     are inconsistent: for example, letter titles dividing biographical
     entries only begin at nun.
+    PV removed editorial sections and added empty second-level header tags
+    for the beginning of sections of names that start with a new letter.
+    Note that this version of the text contains also Ibn al-Khaṭīb's 
+    bibliography, which features in a later part of the Iḥāṭa (?).
 90#VERS#DATE#####: 2020-07-10
-90#VERS#ISSUES###: EDITORIAL_SECTIONS
+90#VERS#ISSUES###: PRIMARY_VERSION, CLEANED_VERSION
