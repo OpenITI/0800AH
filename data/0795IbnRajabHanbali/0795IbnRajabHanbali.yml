@@ -14,6 +14,7 @@
 30#AUTH#DIED###AH: 0795-RAM-04 (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: wikidata@Q529235
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
 90#AUTH#COMMENT##: Introductory volume to al-Ḏayl ʿalā ṭabaqāt al-ḥanābila is a
     goldmine for this data, also for teachers and students which I have not filled

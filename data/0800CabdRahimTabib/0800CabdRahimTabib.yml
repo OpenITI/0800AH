@@ -13,7 +13,8 @@
 30#AUTH#DIED###AH: YEAR-MON-DA (X+ for unknown)
 40#AUTH#STUDENTS#: AUTH_URI from OpenITI, comma separated
 40#AUTH#TEACHERS#: AUTH_URI from OpenITI, comma separated
+70#AUTH#EXTID####: viaf@id, wikidata@id, src@id
 80#AUTH#BIBLIO###: src@id, src@id, src@id, src@id, src@id
-90#AUTH#COMMENT##: According to the Kashf al-Ẓunun, 
-    ʿAbd al-Raḥīm finished his commentary on al-Kishī's Wasā'il al-Wuṣul 
+90#AUTH#COMMENT##: According to the Kashf al-Ẓunun,
+    ʿAbd al-Raḥīm finished his commentary on al-Kishī's Wasā'il al-Wuṣul
     in the year 785 AH.

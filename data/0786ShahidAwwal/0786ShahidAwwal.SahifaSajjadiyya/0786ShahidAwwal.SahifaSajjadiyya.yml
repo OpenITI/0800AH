@@ -5,20 +5,21 @@
 20#BOOK#WROTE####: URIs from Althurayya, comma separated
 30#BOOK#WROTE##AH: YEAR-MON-DA (X+ for unknown)
 40#BOOK#RELATED##: 0094ZaynCabidin (PUTATIVEAUTHOR)
+70#BOOK#EXTID####: viaf@id, wikidata@id, src@id
 80#BOOK#EDITIONS#: permalink, permalink, permalink
 80#BOOK#LINKS####: permalink, permalink, permalink
 80#BOOK#MSS######: permalink, permalink, permalink
 80#BOOK#STUDIES##: permalink, permalink, permalink
 80#BOOK#TRANSLAT#: permalink, permalink, permalink
-90#BOOK#COMMENT##: The corpus contains two editions of the Ṣaḥīfa: 
+90#BOOK#COMMENT##: The corpus contains two editions of the Ṣaḥīfa:
     * ed. Abṭaḥī (Shia001111):  This edition contains much additional
-      material: "The popularization of the Ṣaḥifa spurred the compilation of
-      supplementary works (mostadrakāt) containing additional devotional
-      material attributed to Imam Zayn-al-ʿĀbedin, which are referred to
-      as the second, third, fourth, etc. Ṣaḥifa. In recent times some
-      scholars have collected  all of the original and supplementary 
-      material into one volume, most notably al-Ṣaḥifa al-Sajjādiya al-jāmeʿa
-      of Moḥammad-Bāqer Abṭaḥi."  
-      (http://www.iranicaonline.org/articles/sahifa-al-sajjadiya)
+    material: "The popularization of the Ṣaḥifa spurred the compilation of
+    supplementary works (mostadrakāt) containing additional devotional
+    material attributed to Imam Zayn-al-ʿĀbedin, which are referred to
+    as the second, third, fourth, etc. Ṣaḥifa. In recent times some
+    scholars have collected  all of the original and supplementary
+    material into one volume, most notably al-Ṣaḥifa al-Sajjādiya al-jāmeʿa
+    of Moḥammad-Bāqer Abṭaḥi."
+    (http://www.iranicaonline.org/articles/sahifa-al-sajjadiya)
     * an edition of only the Ṣaḥīfa itself, calligraphed by Afshārī
-      Zanjānī (Shia001112)
+    Zanjānī (Shia001112)
